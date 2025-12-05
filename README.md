@@ -4,8 +4,11 @@
 📍 Guangzhou, China  
 📧 1549286550@qq.com ｜ luoyifanwh@gmail.com  
 
+
 <div align="center">
-“Build practical intelligence. Ship real products.”
+
+# "Build practical intelligence. Ship real products."
+
 </div>
 
 ## 🚀 About Me
